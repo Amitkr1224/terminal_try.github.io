@@ -18,3 +18,19 @@ p{
 .edu{
     width: 50%
 }
+.me{
+    /* max-width: 50%; */
+    /* left: 20px; */
+    right: 50%;
+}
+.me h2{
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.me p{
+    font-weight: 300;
+}
+.me span{
+    color: crimson;
+}
